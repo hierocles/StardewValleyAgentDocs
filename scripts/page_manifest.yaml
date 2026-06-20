@@ -1,0 +1,502 @@
+# Routes Modding wiki pages (flattened filenames) to docs/ output paths.
+# Wiki title "Modding:Weather data" -> flat file "Modding_Weather_data.md"
+
+merge_only:
+  - "Modding:Modder Guide/header"
+  - "Modding:Content Patcher/header"
+  - "Modding:Console commands/cmd"
+  - "Modding:Modder Guide/APIs/Events/event"
+  - "Modding:Mod compatibility/entry"
+  - "Modding:Mod compatibility/barchart"
+  - "Modding:Community/entry"
+
+index_page: "Modding:Index"
+
+missing_from_export:
+  - "Modding:Migrate to SMAPI 2.0"
+  - "Modding:Migrate to Stardew Valley 1.3"
+  - "Modding:Migrate XNB changes to Stardew Valley 1.3"
+  - "Modding:Migrate to Stardew Valley 1.3.36"
+  - "Modding:Migrate to Stardew Valley 1.4"
+  - "Modding:Migrate to SMAPI 3.0"
+  - "Modding:Migrate to Stardew Valley 1.5"
+  - "Modding:Migrate to Stardew Valley 1.5.5"
+  - "Modding:Migrate to SMAPI 4.0"
+  - "Modding:Migrate to Stardew Valley 1.6"
+  - "Modding:Migrate to Stardew Valley 1.6.9"
+  - "Modding:Migrate to Stardew Valley 1.6.16"
+  - "Modding:Migrate to Stardew Valley 1.7"
+  - "Modding:Museum"
+  - "Modding:Editing XNB files"
+  - "Modding:Using XNB mods"
+
+# wiki_title -> output path(s). Use splits for large pages (section markers are == headings in markdown).
+pages:
+  "Modding:Index":
+    emit: readme_source
+
+  "Modding:Player Guide/Getting Started":
+    output: player-guide/getting-started.md
+    category: player-guide
+  "Modding:Player Guide/Troubleshooting":
+    output: player-guide/troubleshooting.md
+    category: player-guide
+  "Modding:Player Guide/Key Bindings":
+    output: player-guide/key-bindings.md
+    category: player-guide
+  "Modding:Mod compatibility":
+    output: player-guide/mod-compatibility.md
+    category: player-guide
+
+  "Modding:Community":
+    splits:
+      - output: community/overview.md
+        from: start
+        until: "## Modders"
+        category: community
+      - output: community/modders-directory.md
+        from: "## Modders"
+        until: end
+        category: community
+        agent_priority: low
+
+  "Modding:Help":
+    output: smapi/help.md
+    category: smapi
+  "Modding:Open source":
+    output: smapi/open-source.md
+    category: smapi
+  "Modding:Translations":
+    output: smapi/translations.md
+    category: smapi
+  "Modding:IDE reference":
+    output: smapi/ide-reference.md
+    category: smapi
+  "Modding:Common tasks":
+    output: smapi/common-tasks.md
+    category: smapi
+  "Modding:Migrate to Harmony 2.0":
+    output: smapi/migrate-harmony-2.md
+    category: smapi
+
+  "Modding:Modder Guide/Get Started":
+    output: smapi/get-started.md
+    category: smapi
+  "Modding:Modder Guide/Game Fundamentals":
+    output: smapi/game-fundamentals.md
+    category: smapi
+  "Modding:Modder Guide/Test and Troubleshoot":
+    output: smapi/test-and-troubleshoot.md
+    category: smapi
+  "Modding:Modder Guide/Release":
+    output: smapi/release.md
+    category: smapi
+
+  "Modding:Modder Guide/APIs":
+    output: smapi/apis/overview.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Manifest":
+    output: smapi/apis/manifest.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Config":
+    output: smapi/apis/config.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Content":
+    output: smapi/apis/content-api.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Utilities":
+    output: smapi/apis/utilities.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Console":
+    output: smapi/apis/console-api.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Integrations":
+    output: smapi/apis/integrations.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Translation":
+    output: smapi/apis/translation-api.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Content Packs":
+    output: smapi/apis/content-packs-api.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Logging":
+    output: smapi/apis/logging.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Multiplayer":
+    output: smapi/apis/multiplayer-api.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Reflection":
+    output: smapi/apis/reflection.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Input":
+    output: smapi/apis/input-api.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Data":
+    output: smapi/apis/data-api.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Mod structure":
+    output: smapi/apis/mod-structure.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Harmony":
+    output: smapi/apis/harmony.md
+    category: smapi
+  "Modding:Modder Guide/APIs/Update checks":
+    output: smapi/apis/update-checks.md
+    category: smapi
+
+  "Modding:Modder Guide/APIs/Events":
+    splits:
+      - output: smapi/apis/events/overview.md
+        from: start
+        until: "## Events"
+        category: smapi
+      - output: smapi/apis/events/content.md
+        from: "### Content"
+        until: "### Display"
+        category: smapi
+      - output: smapi/apis/events/display.md
+        from: "### Display"
+        until: "### Game loop"
+        category: smapi
+      - output: smapi/apis/events/game-loop.md
+        from: "### Game loop"
+        until: "### Input"
+        category: smapi
+      - output: smapi/apis/events/input.md
+        from: "### Input"
+        until: "### Multiplayer"
+        category: smapi
+      - output: smapi/apis/events/multiplayer.md
+        from: "### Multiplayer"
+        until: "### Player"
+        category: smapi
+      - output: smapi/apis/events/player.md
+        from: "### Player"
+        until: "### World"
+        category: smapi
+      - output: smapi/apis/events/world.md
+        from: "### World"
+        until: "### Specialised"
+        category: smapi
+      - output: smapi/apis/events/specialised.md
+        from: "### Specialised"
+        until: "## Advanced"
+        category: smapi
+      - output: smapi/apis/events/advanced.md
+        from: "## Advanced"
+        until: end
+        category: smapi
+
+  "Modding:Content packs":
+    output: content-packs/overview.md
+    category: content-packs
+  "Modding:Content pack frameworks":
+    output: content-packs/frameworks.md
+    category: content-packs
+  "Modding:Content Patcher":
+    output: content-packs/content-patcher.md
+    category: content-packs
+
+  "Modding:Console commands":
+    splits:
+      - output: console-commands/overview-and-smapi-commands.md
+        from: start
+        until: "## Debug commands"
+        category: console-commands
+      - output: console-commands/debug/items-and-inventory.md
+        from: "### Items and inventory"
+        until: "### Player"
+        category: console-commands
+      - output: console-commands/debug/player.md
+        from: "### Player"
+        until: "### Collections and quests"
+        category: console-commands
+      - output: console-commands/debug/collections-and-quests.md
+        from: "### Collections and quests"
+        until: "### NPCs"
+        category: console-commands
+      - output: console-commands/debug/npcs.md
+        from: "### NPCs"
+        until: "### Festivals and events"
+        category: console-commands
+      - output: console-commands/debug/festivals-and-events.md
+        from: "### Festivals and events"
+        until: "### Minigames and cutscenes"
+        category: console-commands
+      - output: console-commands/debug/minigames-and-cutscenes.md
+        from: "### Minigames and cutscenes"
+        until: "### Shops"
+        category: console-commands
+      - output: console-commands/debug/shops.md
+        from: "### Shops"
+        until: "### Locations"
+        category: console-commands
+      - output: console-commands/debug/locations.md
+        from: "### Locations"
+        until: "### World"
+        category: console-commands
+      - output: console-commands/debug/world.md
+        from: "### World"
+        until: "### Game settings and meta info"
+        category: console-commands
+      - output: console-commands/debug/game-settings.md
+        from: "### Game settings and meta info"
+        until: "### Multiplayer"
+        category: console-commands
+      - output: console-commands/debug/multiplayer.md
+        from: "### Multiplayer"
+        until: "### Audio and visual effects"
+        category: console-commands
+      - output: console-commands/debug/audio-and-visual.md
+        from: "### Audio and visual effects"
+        until: "### Outdated, unimplemented, or unknown"
+        category: console-commands
+      - output: console-commands/debug/outdated.md
+        from: "### Outdated, unimplemented, or unknown"
+        until: end
+        category: console-commands
+
+  "Modding:Audio":
+    splits:
+      - output: game/audio/overview-and-data.md
+        from: start
+        until: "## Track list"
+        category: game
+      - output: game/audio/track-list.md
+        from: "## Track list"
+        until: end
+        category: game
+
+  "Modding:Maps":
+    splits:
+      - output: locations/maps/intro-and-getting-started.md
+        from: start
+        until: "## Map edits"
+        category: locations
+      - output: locations/maps/map-edits.md
+        from: "## Map edits"
+        until: "## Advanced edits"
+        category: locations
+      - output: locations/maps/advanced-edits.md
+        from: "## Advanced edits"
+        until: "## Known map properties"
+        category: locations
+      - output: locations/maps/map-properties-and-tiles.md
+        from: "## Known map properties"
+        until: "## Paths layer"
+        category: locations
+      - output: locations/maps/paths-troubleshooting-smapi.md
+        from: "## Paths layer"
+        until: end
+        category: locations
+
+  "Modding:NPC data":
+    output: npcs/overview.md
+    category: npcs
+  "Modding:Dialogue":
+    output: npcs/dialogue.md
+    category: npcs
+  "Modding:Event data":
+    output: npcs/event-data.md
+    category: npcs
+  "Modding:Gift taste data":
+    output: npcs/gift-tastes.md
+    category: npcs
+  "Modding:Quest data":
+    output: npcs/quests.md
+    category: npcs
+  "Modding:Schedule data":
+    output: npcs/schedules.md
+    category: npcs
+  "Modding:Custom wedding events":
+    output: npcs/custom-wedding-events.md
+    category: npcs
+
+  "Modding:Items":
+    output: items/overview.md
+    category: items
+  "Modding:Objects":
+    output: items/objects.md
+    category: items
+  "Modding:Objects/Object sprites":
+    output: items/object-sprites.md
+    category: items
+  "Modding:Crop data":
+    output: items/crops.md
+    category: items
+  "Modding:Fruit trees":
+    output: items/fruit-trees.md
+    category: items
+  "Modding:Giant crops":
+    output: items/giant-crops.md
+    category: items
+  "Modding:Wild trees":
+    output: items/wild-trees.md
+    category: items
+  "Modding:Machines":
+    output: items/machines.md
+    category: items
+  "Modding:Recipe data":
+    output: items/recipes.md
+    category: items
+  "Modding:Big craftables":
+    output: items/big-craftables.md
+    category: items
+  "Modding:Boots":
+    output: items/boots.md
+    category: items
+  "Modding:Furniture":
+    output: items/furniture.md
+    category: items
+  "Modding:Hats":
+    output: items/hats.md
+    category: items
+  "Modding:Mannequins":
+    output: items/mannequins.md
+    category: items
+  "Modding:Pants":
+    output: items/pants.md
+    category: items
+  "Modding:Shirts":
+    output: items/shirts.md
+    category: items
+  "Modding:Tools":
+    output: items/tools.md
+    category: items
+  "Modding:Trinkets":
+    output: items/trinkets.md
+    category: items
+  "Modding:Wallpaper and flooring":
+    output: items/wallpaper-flooring.md
+    category: items
+  "Modding:Weapons":
+    output: items/weapons.md
+    category: items
+
+  "Modding:Farm data":
+    output: locations/farm-data.md
+    category: locations
+  "Modding:Festival data":
+    output: locations/festivals.md
+    category: locations
+  "Modding:Passive Festival data":
+    output: locations/passive-festivals.md
+    category: locations
+  "Modding:Fish data":
+    output: locations/fish.md
+    category: locations
+  "Modding:Location contexts":
+    output: locations/location-contexts.md
+    category: locations
+  "Modding:Location data":
+    output: locations/locations.md
+    category: locations
+  "Modding:Movie theater data":
+    output: locations/movie-theater.md
+    category: locations
+  "Modding:Weather data":
+    output: locations/weather.md
+    category: locations
+
+  "Modding:Achievement data":
+    output: game/achievements.md
+    category: game
+  "Modding:Custom languages":
+    output: game/custom-languages.md
+    category: game
+  "Modding:World map":
+    output: game/world-map.md
+    category: game
+  "Modding:Chat Commands":
+    output: game/chat-commands.md
+    category: game
+  "Modding:Buildings":
+    output: game/buildings.md
+    category: game
+  "Modding:Buffs":
+    output: game/buffs.md
+    category: game
+  "Modding:Bundles":
+    output: game/bundles.md
+    category: game
+  "Modding:Fences":
+    output: game/fences.md
+    category: game
+  "Modding:Floors and Paths":
+    output: game/floors-and-paths.md
+    category: game
+  "Modding:Fish ponds":
+    output: game/fish-ponds.md
+    category: game
+  "Modding:Garbage cans":
+    output: game/garbage-cans.md
+    category: game
+  "Modding:Jukebox tracks":
+    output: game/jukebox-tracks.md
+    category: game
+  "Modding:Minecarts":
+    output: game/minecarts.md
+    category: game
+  "Modding:Monster eradication goals":
+    output: game/monster-eradication-goals.md
+    category: game
+  "Modding:Phone calls":
+    output: game/phone-calls.md
+    category: game
+  "Modding:Farmhouse Renovations":
+    output: game/farmhouse-renovations.md
+    category: game
+  "Modding:Powers":
+    output: game/powers.md
+    category: game
+
+  "Modding:Mail data":
+    output: world-systems/mail.md
+    category: world-systems
+  "Modding:Shops":
+    output: world-systems/shops.md
+    category: world-systems
+  "Modding:Special orders":
+    output: world-systems/special-orders.md
+    category: world-systems
+  "Modding:Tailoring":
+    output: world-systems/tailoring.md
+    category: world-systems
+  "Modding:Lost items shop":
+    output: world-systems/lost-items-shop.md
+    category: world-systems
+
+  "Modding:Animal data":
+    output: entities/animals.md
+    category: entities
+  "Modding:Monster data":
+    output: entities/monsters.md
+    category: entities
+  "Modding:Pets":
+    output: entities/pets.md
+    category: entities
+  "Modding:Farmer sprite":
+    output: entities/farmer-sprite.md
+    category: entities
+
+  "Modding:Common data field types":
+    output: reference/common-data-field-types.md
+    category: reference
+  "Modding:Context tags":
+    output: reference/context-tags.md
+    category: reference
+  "Modding:Game state queries":
+    output: reference/game-state-queries.md
+    category: reference
+  "Modding:Item queries":
+    output: reference/item-queries.md
+    category: reference
+  "Modding:Tokenizable strings":
+    output: reference/tokenizable-strings.md
+    category: reference
+  "Modding:Trigger actions":
+    output: reference/trigger-actions.md
+    category: reference
+  "Modding:Stats":
+    output: reference/stats.md
+    category: reference
