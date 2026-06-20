@@ -1,0 +1,1856 @@
+[
+  {
+    "slug": "community/modders-directory.md",
+    "title": "Modders Directory",
+    "category": "community",
+    "tags": [
+      "community",
+      "modders"
+    ],
+    "wiki_source": "Modding:Community"
+  },
+  {
+    "slug": "community/overview.md",
+    "title": "Overview",
+    "category": "community",
+    "tags": [
+      "community",
+      "where-to-talk",
+      "reddit",
+      "discord",
+      "official-forums",
+      "mod-sites"
+    ],
+    "wiki_source": "Modding:Community"
+  },
+  {
+    "slug": "console-commands/debug/audio-and-visual.md",
+    "title": "Audio And Visual",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "audio-and-visual-effects"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/collections-and-quests.md",
+    "title": "Collections And Quests",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "collections-and-quests"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/festivals-and-events.md",
+    "title": "Festivals And Events",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "festivals-and-events"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/game-settings.md",
+    "title": "Game Settings",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "game-settings-and-meta-info"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/items-and-inventory.md",
+    "title": "Items And Inventory",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "items-and-inventory"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/locations.md",
+    "title": "Locations",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "locations"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/minigames-and-cutscenes.md",
+    "title": "Minigames And Cutscenes",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "minigames-and-cutscenes"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/multiplayer.md",
+    "title": "Multiplayer",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "multiplayer"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/npcs.md",
+    "title": "Npcs",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "npcs"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/outdated.md",
+    "title": "Outdated",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "outdated-unimplemented-or-unknown",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/player.md",
+    "title": "Player",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "player",
+      "world",
+      "other",
+      "advanced",
+      "debug-commands",
+      "how-to-enter-debug-commands",
+      "macros"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/shops.md",
+    "title": "Shops",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "shops"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/debug/world.md",
+    "title": "World",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "world",
+      "other",
+      "advanced",
+      "debug-commands",
+      "how-to-enter-debug-commands",
+      "macros",
+      "actions-and-queries"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "console-commands/overview-and-smapi-commands.md",
+    "title": "Overview And Smapi Commands",
+    "category": "console-commands",
+    "tags": [
+      "console-commands",
+      "format-used-on-this-page",
+      "how-to-enter-console-commands",
+      "items-money",
+      "player",
+      "world",
+      "other",
+      "advanced"
+    ],
+    "wiki_source": "Modding:Console commands"
+  },
+  {
+    "slug": "content-packs/content-patcher.md",
+    "title": "Content Patcher",
+    "category": "content-packs",
+    "tags": [
+      "content-patcher",
+      "quick-start",
+      "basic-concepts",
+      "what-is-content-patcher",
+      "assets",
+      "load-vs-edits",
+      "get-started",
+      "intro-to-json"
+    ],
+    "wiki_source": "Modding:Content Patcher"
+  },
+  {
+    "slug": "content-packs/frameworks.md",
+    "title": "Frameworks",
+    "category": "content-packs",
+    "tags": [
+      "content-pack-frameworks",
+      "content-patcher",
+      "other-popular-frameworks",
+      "core-1000-content-packs",
+      "popular-400",
+      "common-100",
+      "specialized-frameworks",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Content pack frameworks"
+  },
+  {
+    "slug": "content-packs/overview.md",
+    "title": "Overview",
+    "category": "content-packs",
+    "tags": [
+      "content-packs",
+      "for-players",
+      "for-modders",
+      "create-a-content-pack",
+      "release-your-content-pack",
+      "consume-a-content-pack",
+      "conventions",
+      "folder-name"
+    ],
+    "wiki_source": "Modding:Content packs"
+  },
+  {
+    "slug": "entities/animals.md",
+    "title": "Animals",
+    "category": "entities",
+    "tags": [
+      "animal-data",
+      "data-format",
+      "main-info",
+      "animal-shop",
+      "hatching",
+      "growth",
+      "produce",
+      "audio-sprite"
+    ],
+    "wiki_source": "Modding:Animal data"
+  },
+  {
+    "slug": "entities/farmer-sprite.md",
+    "title": "Farmer Sprite",
+    "category": "entities",
+    "tags": [
+      "farmer-sprite",
+      "associated-files-location",
+      "layers",
+      "farmer-girl-base",
+      "color-palette",
+      "shirt-size-difference",
+      "hats-and-hairstyles",
+      "sprite-index-breakdown"
+    ],
+    "wiki_source": "Modding:Farmer sprite"
+  },
+  {
+    "slug": "entities/monsters.md",
+    "title": "Monsters",
+    "category": "entities",
+    "tags": [
+      "monster-data",
+      "raw-data",
+      "format",
+      "monster-specific-notes",
+      "slime-sprites",
+      "monster-ids"
+    ],
+    "wiki_source": "Modding:Monster data"
+  },
+  {
+    "slug": "entities/pets.md",
+    "title": "Pets",
+    "category": "entities",
+    "tags": [
+      "pets",
+      "data-format",
+      "basic-info",
+      "audio-sprites",
+      "events",
+      "gifts",
+      "behavior",
+      "breeds"
+    ],
+    "wiki_source": "Modding:Pets"
+  },
+  {
+    "slug": "game/achievements.md",
+    "title": "Achievements",
+    "category": "game",
+    "tags": [
+      "achievement-data",
+      "raw-data",
+      "format",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Achievement data"
+  },
+  {
+    "slug": "game/audio/overview-and-data.md",
+    "title": "Overview And Data",
+    "category": "game",
+    "tags": [
+      "audio",
+      "overview",
+      "audio-data",
+      "data-format",
+      "category-list",
+      "audio-file-format",
+      "example",
+      "review-audio"
+    ],
+    "wiki_source": "Modding:Audio"
+  },
+  {
+    "slug": "game/audio/track-list.md",
+    "title": "Track List",
+    "category": "game",
+    "tags": [
+      "audio",
+      "track-list",
+      "footsteps",
+      "music",
+      "music-ambient",
+      "sound",
+      "manage-audio-in-c",
+      "playing-sounds"
+    ],
+    "wiki_source": "Modding:Audio"
+  },
+  {
+    "slug": "game/buffs.md",
+    "title": "Buffs",
+    "category": "game",
+    "tags": [
+      "buffs",
+      "data-format",
+      "for-c-mod-authors"
+    ],
+    "wiki_source": "Modding:Buffs"
+  },
+  {
+    "slug": "game/buildings.md",
+    "title": "Buildings",
+    "category": "game",
+    "tags": [
+      "buildings",
+      "format",
+      "for-c-mods"
+    ],
+    "wiki_source": "Modding:Buildings"
+  },
+  {
+    "slug": "game/bundles.md",
+    "title": "Bundles",
+    "category": "game",
+    "tags": [
+      "bundles",
+      "raw-data",
+      "format",
+      "reward-limitation"
+    ],
+    "wiki_source": "Modding:Bundles"
+  },
+  {
+    "slug": "game/chat-commands.md",
+    "title": "Chat Commands",
+    "category": "game",
+    "tags": [
+      "chat-commands",
+      "registering-custom-commands",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Chat Commands"
+  },
+  {
+    "slug": "game/custom-languages.md",
+    "title": "Custom Languages",
+    "category": "game",
+    "tags": [
+      "custom-languages",
+      "add-a-custom-language",
+      "data-format",
+      "example",
+      "add-a-custom-font",
+      "font-files",
+      "limitations",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Custom languages"
+  },
+  {
+    "slug": "game/farmhouse-renovations.md",
+    "title": "Farmhouse Renovations",
+    "category": "game",
+    "tags": [
+      "farmhouse-renovations"
+    ],
+    "wiki_source": "Modding:Farmhouse Renovations"
+  },
+  {
+    "slug": "game/fences.md",
+    "title": "Fences",
+    "category": "game",
+    "tags": [
+      "fences",
+      "data-format"
+    ],
+    "wiki_source": "Modding:Fences"
+  },
+  {
+    "slug": "game/fish-ponds.md",
+    "title": "Fish Ponds",
+    "category": "game",
+    "tags": [
+      "fish-ponds",
+      "format"
+    ],
+    "wiki_source": "Modding:Fish ponds"
+  },
+  {
+    "slug": "game/floors-and-paths.md",
+    "title": "Floors And Paths",
+    "category": "game",
+    "tags": [
+      "floors-and-paths",
+      "data-format"
+    ],
+    "wiki_source": "Modding:Floors and Paths"
+  },
+  {
+    "slug": "game/garbage-cans.md",
+    "title": "Garbage Cans",
+    "category": "game",
+    "tags": [
+      "garbage-cans",
+      "format",
+      "examples",
+      "new-garbage-can",
+      "change-an-existing-garbage-can",
+      "changes-for-c-mods"
+    ],
+    "wiki_source": "Modding:Garbage cans"
+  },
+  {
+    "slug": "game/jukebox-tracks.md",
+    "title": "Jukebox Tracks",
+    "category": "game",
+    "tags": [
+      "jukebox-tracks",
+      "format"
+    ],
+    "wiki_source": "Modding:Jukebox tracks"
+  },
+  {
+    "slug": "game/minecarts.md",
+    "title": "Minecarts",
+    "category": "game",
+    "tags": [
+      "minecarts",
+      "format",
+      "open-a-minecart-menu",
+      "example"
+    ],
+    "wiki_source": "Modding:Minecarts"
+  },
+  {
+    "slug": "game/monster-eradication-goals.md",
+    "title": "Monster Eradication Goals",
+    "category": "game",
+    "tags": [
+      "monster-eradication-goals",
+      "format",
+      "flag-changes"
+    ],
+    "wiki_source": "Modding:Monster eradication goals"
+  },
+  {
+    "slug": "game/phone-calls.md",
+    "title": "Phone Calls",
+    "category": "game",
+    "tags": [
+      "phone-calls",
+      "incoming-calls-format",
+      "custom-handlers-in-c"
+    ],
+    "wiki_source": "Modding:Phone calls"
+  },
+  {
+    "slug": "game/powers.md",
+    "title": "Powers",
+    "category": "game",
+    "tags": [
+      "powers",
+      "overview",
+      "data-format"
+    ],
+    "wiki_source": "Modding:Powers"
+  },
+  {
+    "slug": "game/world-map.md",
+    "title": "World Map",
+    "category": "game",
+    "tags": [
+      "world-map",
+      "data",
+      "overview",
+      "format",
+      "example",
+      "real-time-positioning",
+      "automatic-positioning-recommended",
+      "manual-positioning"
+    ],
+    "wiki_source": "Modding:World map"
+  },
+  {
+    "slug": "items/big-craftables.md",
+    "title": "Big Craftables",
+    "category": "items",
+    "tags": [
+      "big-craftables",
+      "overview",
+      "data-format",
+      "basic-info",
+      "behavior",
+      "appearance",
+      "context-tags",
+      "advanced"
+    ],
+    "wiki_source": "Modding:Big craftables"
+  },
+  {
+    "slug": "items/boots.md",
+    "title": "Boots",
+    "category": "items",
+    "tags": [
+      "boots",
+      "overview",
+      "data-format",
+      "example",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Boots"
+  },
+  {
+    "slug": "items/crops.md",
+    "title": "Crops",
+    "category": "items",
+    "tags": [
+      "crop-data",
+      "raw-data",
+      "format",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Crop data"
+  },
+  {
+    "slug": "items/fruit-trees.md",
+    "title": "Fruit Trees",
+    "category": "items",
+    "tags": [
+      "fruit-trees",
+      "raw-data"
+    ],
+    "wiki_source": "Modding:Fruit trees"
+  },
+  {
+    "slug": "items/furniture.md",
+    "title": "Furniture",
+    "category": "items",
+    "tags": [
+      "furniture",
+      "overview",
+      "data-format",
+      "furniture-types",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Furniture"
+  },
+  {
+    "slug": "items/giant-crops.md",
+    "title": "Giant Crops",
+    "category": "items",
+    "tags": [
+      "giant-crops",
+      "data-format",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Giant crops"
+  },
+  {
+    "slug": "items/hats.md",
+    "title": "Hats",
+    "category": "items",
+    "tags": [
+      "hats",
+      "overview",
+      "data-format",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Hats"
+  },
+  {
+    "slug": "items/machines.md",
+    "title": "Machines",
+    "category": "items",
+    "tags": [
+      "machines",
+      "definitions",
+      "data-format",
+      "item-processing-rules",
+      "behavior-tweaks",
+      "audio-visuals",
+      "player-interaction-messages",
+      "advanced-logic"
+    ],
+    "wiki_source": "Modding:Machines"
+  },
+  {
+    "slug": "items/mannequins.md",
+    "title": "Mannequins",
+    "category": "items",
+    "tags": [
+      "mannequins",
+      "overview",
+      "data-format",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Mannequins"
+  },
+  {
+    "slug": "items/object-sprites.md",
+    "title": "Object Sprites",
+    "category": "items",
+    "tags": [
+      "objects",
+      "object-sprites",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Objects/Object sprites"
+  },
+  {
+    "slug": "items/objects.md",
+    "title": "Objects",
+    "category": "items",
+    "tags": [
+      "objects",
+      "overview",
+      "data-format",
+      "basic-info",
+      "appearance",
+      "edibility",
+      "geodes-artifact-spots",
+      "context-tags-exclusions"
+    ],
+    "wiki_source": "Modding:Objects"
+  },
+  {
+    "slug": "items/overview.md",
+    "title": "Overview",
+    "category": "items",
+    "tags": [
+      "items",
+      "overview",
+      "item-ids",
+      "item-types",
+      "item-sprites",
+      "define-a-custom-item",
+      "error-items",
+      "common-data"
+    ],
+    "wiki_source": "Modding:Items"
+  },
+  {
+    "slug": "items/pants.md",
+    "title": "Pants",
+    "category": "items",
+    "tags": [
+      "pants",
+      "overview",
+      "data-format",
+      "basic-data",
+      "appearance",
+      "other",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Pants"
+  },
+  {
+    "slug": "items/recipes.md",
+    "title": "Recipes",
+    "category": "items",
+    "tags": [
+      "recipe-data",
+      "raw-data",
+      "cooking-recipes",
+      "crafting-recipes",
+      "format",
+      "ingredients-and-yield",
+      "unlock-conditions",
+      "exceptions"
+    ],
+    "wiki_source": "Modding:Recipe data"
+  },
+  {
+    "slug": "items/shirts.md",
+    "title": "Shirts",
+    "category": "items",
+    "tags": [
+      "shirts",
+      "overview",
+      "data-format",
+      "basic-data",
+      "appearance",
+      "other",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Shirts"
+  },
+  {
+    "slug": "items/tools.md",
+    "title": "Tools",
+    "category": "items",
+    "tags": [
+      "tools",
+      "overview",
+      "data-format",
+      "basic-data",
+      "appearance",
+      "upgrades",
+      "game-logic",
+      "extensibility"
+    ],
+    "wiki_source": "Modding:Tools"
+  },
+  {
+    "slug": "items/trinkets.md",
+    "title": "Trinkets",
+    "category": "items",
+    "tags": [
+      "trinkets",
+      "overview",
+      "data-format",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Trinkets"
+  },
+  {
+    "slug": "items/wallpaper-flooring.md",
+    "title": "Wallpaper Flooring",
+    "category": "items",
+    "tags": [
+      "wallpaper-and-flooring",
+      "overview",
+      "data-format",
+      "example",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Wallpaper and flooring"
+  },
+  {
+    "slug": "items/weapons.md",
+    "title": "Weapons",
+    "category": "items",
+    "tags": [
+      "weapons",
+      "overview",
+      "data-format",
+      "basic-weapon-info",
+      "appearance",
+      "stats",
+      "game-logic",
+      "advanced"
+    ],
+    "wiki_source": "Modding:Weapons"
+  },
+  {
+    "slug": "items/wild-trees.md",
+    "title": "Wild Trees",
+    "category": "items",
+    "tags": [
+      "wild-trees",
+      "data-format"
+    ],
+    "wiki_source": "Modding:Wild trees"
+  },
+  {
+    "slug": "locations/farm-data.md",
+    "title": "Farm Data",
+    "category": "locations",
+    "tags": [
+      "farm-data",
+      "assets",
+      "farm-type-data",
+      "farm-map",
+      "farm-map-properties",
+      "location-data",
+      "example"
+    ],
+    "wiki_source": "Modding:Farm data"
+  },
+  {
+    "slug": "locations/festivals.md",
+    "title": "Festivals",
+    "category": "locations",
+    "tags": [
+      "festival-data",
+      "data-file",
+      "raw-data",
+      "format",
+      "year-variants",
+      "shop-format",
+      "map",
+      "spawned-npcs"
+    ],
+    "wiki_source": "Modding:Festival data"
+  },
+  {
+    "slug": "locations/fish.md",
+    "title": "Fish",
+    "category": "locations",
+    "tags": [
+      "fish-data",
+      "data-format",
+      "fish",
+      "aquarium-fish",
+      "spawning-fish",
+      "references"
+    ],
+    "wiki_source": "Modding:Fish data"
+  },
+  {
+    "slug": "locations/location-contexts.md",
+    "title": "Location Contexts",
+    "category": "locations",
+    "tags": [
+      "location-contexts",
+      "format",
+      "player-actions",
+      "season",
+      "weather",
+      "music",
+      "advanced",
+      "location-context-ids"
+    ],
+    "wiki_source": "Modding:Location contexts"
+  },
+  {
+    "slug": "locations/locations.md",
+    "title": "Locations",
+    "category": "locations",
+    "tags": [
+      "location-data",
+      "terminology",
+      "data-format",
+      "basic-info",
+      "contents",
+      "music",
+      "advanced",
+      "default-entry"
+    ],
+    "wiki_source": "Modding:Location data"
+  },
+  {
+    "slug": "locations/maps/advanced-edits.md",
+    "title": "Advanced Edits",
+    "category": "locations",
+    "tags": [
+      "maps",
+      "advanced-edits",
+      "sitting-on-non-furniture-chairs",
+      "custom-wallpaper-and-flooring-in-decoratable-locations"
+    ],
+    "wiki_source": "Modding:Maps"
+  },
+  {
+    "slug": "locations/maps/intro-and-getting-started.md",
+    "title": "Intro And Getting Started",
+    "category": "locations",
+    "tags": [
+      "maps",
+      "intro",
+      "basic-concepts",
+      "tile-coordinates",
+      "map-formats",
+      "tilesets-vs-tilesheets",
+      "getting-started",
+      "using-smapi"
+    ],
+    "wiki_source": "Modding:Maps"
+  },
+  {
+    "slug": "locations/maps/map-edits.md",
+    "title": "Map Edits",
+    "category": "locations",
+    "tags": [
+      "maps",
+      "map-edits",
+      "editing-maps",
+      "adding-tilesets",
+      "painting-tiles-onto-your-map",
+      "map-properties",
+      "tile-properties",
+      "tiles"
+    ],
+    "wiki_source": "Modding:Maps"
+  },
+  {
+    "slug": "locations/maps/map-properties-and-tiles.md",
+    "title": "Map Properties And Tiles",
+    "category": "locations",
+    "tags": [
+      "maps",
+      "known-map-properties",
+      "building-construction",
+      "crops",
+      "plants-forage-item-spawning",
+      "warps-map-positions",
+      "audio",
+      "lighting"
+    ],
+    "wiki_source": "Modding:Maps"
+  },
+  {
+    "slug": "locations/maps/paths-troubleshooting-smapi.md",
+    "title": "Paths Troubleshooting Smapi",
+    "category": "locations",
+    "tags": [
+      "maps",
+      "paths-layer",
+      "potential-issues",
+      "tilesheet-order",
+      "local-copy-of-a-vanilla-tilesheet",
+      "map-specific-issues",
+      "save-as-in-tiled",
+      "locating-tilesheets-in-tiled"
+    ],
+    "wiki_source": "Modding:Maps"
+  },
+  {
+    "slug": "locations/movie-theater.md",
+    "title": "Movie Theater",
+    "category": "locations",
+    "tags": [
+      "movie-theater-data",
+      "movie-data",
+      "format",
+      "movie-reactions",
+      "movie-identifiers",
+      "concession-data",
+      "concession-tastes",
+      "concession-tags"
+    ],
+    "wiki_source": "Modding:Movie theater data"
+  },
+  {
+    "slug": "locations/passive-festivals.md",
+    "title": "Passive Festivals",
+    "category": "locations",
+    "tags": [
+      "passive-festival-data",
+      "overview",
+      "data-format",
+      "npc-schedules",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Passive Festival data"
+  },
+  {
+    "slug": "locations/weather.md",
+    "title": "Weather",
+    "category": "locations",
+    "tags": [
+      "weather-data",
+      "data",
+      "algorithm",
+      "forced-weather",
+      "generated-weather",
+      "tv-channel",
+      "weather-icon",
+      "rain-totem"
+    ],
+    "wiki_source": "Modding:Weather data"
+  },
+  {
+    "slug": "npcs/custom-wedding-events.md",
+    "title": "Custom Wedding Events",
+    "category": "npcs",
+    "tags": [
+      "custom-wedding-events",
+      "format",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Custom wedding events"
+  },
+  {
+    "slug": "npcs/dialogue.md",
+    "title": "Dialogue",
+    "category": "npcs",
+    "tags": [
+      "dialogue",
+      "dialogue-data",
+      "characters-dialogue-directory",
+      "data-directory",
+      "strings-directory",
+      "algorithm",
+      "format",
+      "gender-switch"
+    ],
+    "wiki_source": "Modding:Dialogue"
+  },
+  {
+    "slug": "npcs/event-data.md",
+    "title": "Event Data",
+    "category": "npcs",
+    "tags": [
+      "event-data",
+      "raw-data",
+      "event-preconditions",
+      "format",
+      "built-in-preconditions",
+      "event-scripts",
+      "basic-format",
+      "comments"
+    ],
+    "wiki_source": "Modding:Event data"
+  },
+  {
+    "slug": "npcs/gift-tastes.md",
+    "title": "Gift Tastes",
+    "category": "npcs",
+    "tags": [
+      "gift-taste-data",
+      "data",
+      "raw-data",
+      "format",
+      "multilining",
+      "how-a-gift-taste-is-determined"
+    ],
+    "wiki_source": "Modding:Gift taste data"
+  },
+  {
+    "slug": "npcs/overview.md",
+    "title": "Overview",
+    "category": "npcs",
+    "tags": [
+      "npc-data",
+      "files-to-edit",
+      "main-data",
+      "gift-tastes",
+      "overworld-sprites",
+      "portraits",
+      "schedule",
+      "dialogue"
+    ],
+    "wiki_source": "Modding:NPC data"
+  },
+  {
+    "slug": "npcs/quests.md",
+    "title": "Quests",
+    "category": "npcs",
+    "tags": [
+      "quest-data",
+      "raw-data",
+      "format",
+      "completion-requirements",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Quest data"
+  },
+  {
+    "slug": "npcs/schedules.md",
+    "title": "Schedules",
+    "category": "npcs",
+    "tags": [
+      "schedule-data",
+      "raw-data",
+      "schedule-key",
+      "special-schedules",
+      "marriage-schedules",
+      "normal-schedules",
+      "schedule-script",
+      "format"
+    ],
+    "wiki_source": "Modding:Schedule data"
+  },
+  {
+    "slug": "player-guide/getting-started.md",
+    "title": "Getting Started",
+    "category": "player-guide",
+    "tags": [
+      "player-guide",
+      "getting-started",
+      "intro",
+      "install-smapi",
+      "find-mods",
+      "find-your-game-folder",
+      "install-mods",
+      "configure-mods"
+    ],
+    "wiki_source": "Modding:Player Guide/Getting Started"
+  },
+  {
+    "slug": "player-guide/key-bindings.md",
+    "title": "Key Bindings",
+    "category": "player-guide",
+    "tags": [
+      "player-guide",
+      "key-bindings",
+      "how-to",
+      "configure-a-mod-s-bindings",
+      "disable-a-mod-s-key-binding",
+      "find-the-code-for-a-key",
+      "use-key-bindings-on-android",
+      "button-codes"
+    ],
+    "wiki_source": "Modding:Player Guide/Key Bindings"
+  },
+  {
+    "slug": "player-guide/mod-compatibility.md",
+    "title": "Mod Compatibility",
+    "category": "player-guide",
+    "tags": [
+      "mod-compatibility",
+      "for-players",
+      "for-mod-authors"
+    ],
+    "wiki_source": "Modding:Mod compatibility"
+  },
+  {
+    "slug": "player-guide/troubleshooting.md",
+    "title": "Troubleshooting",
+    "category": "player-guide",
+    "tags": [
+      "player-guide",
+      "troubleshooting",
+      "the-basics",
+      "common-fixes",
+      "span-id-reset-content-reset-your-content-files-span",
+      "span-id-dedicated-gpu-run-the-game-on-your-dedicated-graphics-card-windows-only-span",
+      "faqs-about-stardew-valley-1-6",
+      "game-doesn-t-launch"
+    ],
+    "wiki_source": "Modding:Player Guide/Troubleshooting"
+  },
+  {
+    "slug": "reference/common-data-field-types.md",
+    "title": "Common Data Field Types",
+    "category": "reference",
+    "tags": [
+      "common-data-field-types",
+      "string-formats",
+      "unique-string-id",
+      "asset-name",
+      "color",
+      "context-tag",
+      "custom-fields",
+      "game-state-query"
+    ],
+    "wiki_source": "Modding:Common data field types"
+  },
+  {
+    "slug": "reference/context-tags.md",
+    "title": "Context Tags",
+    "category": "reference",
+    "tags": [
+      "context-tags",
+      "format",
+      "list-of-context-tags",
+      "added-automatically",
+      "colors",
+      "item-behavior",
+      "machine-processing",
+      "informational"
+    ],
+    "wiki_source": "Modding:Context tags"
+  },
+  {
+    "slug": "reference/game-state-queries.md",
+    "title": "Game State Queries",
+    "category": "reference",
+    "tags": [
+      "game-state-queries",
+      "overview",
+      "query-format",
+      "argument-format",
+      "queries-versus-content-patcher-conditions",
+      "built-in-queries",
+      "meta",
+      "date-time"
+    ],
+    "wiki_source": "Modding:Game state queries"
+  },
+  {
+    "slug": "reference/item-queries.md",
+    "title": "Item Queries",
+    "category": "reference",
+    "tags": [
+      "item-queries",
+      "overview",
+      "valid-fields",
+      "query-format",
+      "argument-format",
+      "available-queries",
+      "general-use",
+      "specific-items"
+    ],
+    "wiki_source": "Modding:Item queries"
+  },
+  {
+    "slug": "reference/stats.md",
+    "title": "Stats",
+    "category": "reference",
+    "tags": [
+      "stats",
+      "overview",
+      "format",
+      "reference-stats-in-mod-code",
+      "caveats",
+      "built-in-stats",
+      "currency-scores",
+      "player-activity"
+    ],
+    "wiki_source": "Modding:Stats"
+  },
+  {
+    "slug": "reference/tokenizable-strings.md",
+    "title": "Tokenizable Strings",
+    "category": "reference",
+    "tags": [
+      "tokenizable-strings",
+      "format",
+      "overview",
+      "token-format",
+      "token-argument-format",
+      "tokens",
+      "game-data",
+      "localization"
+    ],
+    "wiki_source": "Modding:Tokenizable strings"
+  },
+  {
+    "slug": "reference/trigger-actions.md",
+    "title": "Trigger Actions",
+    "category": "reference",
+    "tags": [
+      "trigger-actions",
+      "overview",
+      "introduction",
+      "argument-format",
+      "actions",
+      "built-in-actions",
+      "target-player",
+      "triggers"
+    ],
+    "wiki_source": "Modding:Trigger actions"
+  },
+  {
+    "slug": "smapi/apis/config.md",
+    "title": "Config",
+    "category": "smapi",
+    "tags": [
+      "config",
+      "config-model",
+      "creating-a-config-model",
+      "default-values",
+      "using-the-config-file",
+      "keybind-settings"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Config"
+  },
+  {
+    "slug": "smapi/apis/console-api.md",
+    "title": "Console Api",
+    "category": "smapi",
+    "tags": [
+      "console",
+      "intro",
+      "add-a-custom-command",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Console"
+  },
+  {
+    "slug": "smapi/apis/content-api.md",
+    "title": "Content Api",
+    "category": "smapi",
+    "tags": [
+      "content",
+      "intro",
+      "what-s-an-asset",
+      "what-s-an-asset-name",
+      "what-does-the-content-api-do",
+      "read-assets",
+      "read-mod-assets",
+      "get-actual-mod-asset-keys"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Content"
+  },
+  {
+    "slug": "smapi/apis/content-packs-api.md",
+    "title": "Content Packs Api",
+    "category": "smapi",
+    "tags": [
+      "content-packs",
+      "content-pack-format",
+      "content-pack-api",
+      "get-owned-content-packs",
+      "check-if-a-file-exists",
+      "read-a-json-file",
+      "write-a-json-file",
+      "read-content-asset"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Content Packs"
+  },
+  {
+    "slug": "smapi/apis/data-api.md",
+    "title": "Data Api",
+    "category": "smapi",
+    "tags": [
+      "data",
+      "storage-options",
+      "json-files",
+      "save-data",
+      "global-app-data",
+      "data-model",
+      "creating-a-data-model",
+      "default-values"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Data"
+  },
+  {
+    "slug": "smapi/apis/events/advanced.md",
+    "title": "Advanced",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "advanced",
+      "change-monitoring",
+      "custom-priority"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/content.md",
+    "title": "Content",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "content"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/display.md",
+    "title": "Display",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "display"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/game-loop.md",
+    "title": "Game Loop",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "game-loop"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/input.md",
+    "title": "Input",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "input"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/multiplayer.md",
+    "title": "Multiplayer",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "multiplayer"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/overview.md",
+    "title": "Overview",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "faqs",
+      "what-are-events",
+      "how-do-i-use-them",
+      "how-do-events-fit-into-the-game",
+      "what-if-a-mod-changes-what-the-event-was-raised-for"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/player.md",
+    "title": "Player",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "player"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/specialised.md",
+    "title": "Specialised",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "specialised"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/events/world.md",
+    "title": "World",
+    "category": "smapi",
+    "tags": [
+      "events",
+      "world"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Events"
+  },
+  {
+    "slug": "smapi/apis/harmony.md",
+    "title": "Harmony",
+    "category": "smapi",
+    "tags": [
+      "harmony",
+      "when-to-use-harmony",
+      "how-to-use-it",
+      "best-practices",
+      "faqs",
+      "which-version-of-harmony-should-i-use",
+      "why-should-i-avoid-harmony-annotations-and-patchall",
+      "what-is-inlining-and-why-does-it-matter"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Harmony"
+  },
+  {
+    "slug": "smapi/apis/input-api.md",
+    "title": "Input Api",
+    "category": "smapi",
+    "tags": [
+      "input",
+      "apis",
+      "check-button-state",
+      "check-cursor-position",
+      "send-input",
+      "suppress-input",
+      "data-structures",
+      "sbutton"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Input"
+  },
+  {
+    "slug": "smapi/apis/integrations.md",
+    "title": "Integrations",
+    "category": "smapi",
+    "tags": [
+      "integrations",
+      "dependencies",
+      "mod-registry",
+      "mod-provided-apis",
+      "providing-an-api",
+      "using-an-api",
+      "known-limitations",
+      "message-sending"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Integrations"
+  },
+  {
+    "slug": "smapi/apis/logging.md",
+    "title": "Logging",
+    "category": "smapi",
+    "tags": [
+      "logging",
+      "overview",
+      "log-levels",
+      "log-once",
+      "verbose-logging",
+      "faqs",
+      "where-is-the-log-file-created"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Logging"
+  },
+  {
+    "slug": "smapi/apis/manifest.md",
+    "title": "Manifest",
+    "category": "smapi",
+    "tags": [
+      "manifest",
+      "basic-examples",
+      "fields",
+      "basic-fields",
+      "minimum-smapi-or-game-version",
+      "dependencies",
+      "update-checks",
+      "specialized-fields"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Manifest"
+  },
+  {
+    "slug": "smapi/apis/mod-structure.md",
+    "title": "Mod Structure",
+    "category": "smapi",
+    "tags": [
+      "mod-structure",
+      "basic-structure",
+      "mod-entry",
+      "dependencies"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Mod structure"
+  },
+  {
+    "slug": "smapi/apis/multiplayer-api.md",
+    "title": "Multiplayer Api",
+    "category": "smapi",
+    "tags": [
+      "multiplayer",
+      "methods",
+      "get-new-id",
+      "get-active-locations",
+      "get-connected-player-info",
+      "send-messages",
+      "receive-messages",
+      "per-screen-data"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Multiplayer"
+  },
+  {
+    "slug": "smapi/apis/overview.md",
+    "title": "Overview",
+    "category": "smapi",
+    "tags": [
+      "apis",
+      "basic-apis",
+      "advanced-apis"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs"
+  },
+  {
+    "slug": "smapi/apis/reflection.md",
+    "title": "Reflection",
+    "category": "smapi",
+    "tags": [
+      "reflection",
+      "intro",
+      "basic-reflection",
+      "overview",
+      "fields-and-properties",
+      "methods",
+      "advanced-reflection"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Reflection"
+  },
+  {
+    "slug": "smapi/apis/translation-api.md",
+    "title": "Translation Api",
+    "category": "smapi",
+    "tags": [
+      "translation",
+      "overview",
+      "i18n-folder",
+      "file-structure",
+      "file-format",
+      "tips-for-translators",
+      "reading-translations",
+      "built-in-api"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Translation"
+  },
+  {
+    "slug": "smapi/apis/update-checks.md",
+    "title": "Update Checks",
+    "category": "smapi",
+    "tags": [
+      "update-checks",
+      "introduction",
+      "enable-update-checks",
+      "valid-sites",
+      "advanced",
+      "beta-versions",
+      "update-subkeys",
+      "disable-update-checks-locally"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Update checks"
+  },
+  {
+    "slug": "smapi/apis/utilities.md",
+    "title": "Utilities",
+    "category": "smapi",
+    "tags": [
+      "utilities",
+      "metadata",
+      "mod-path",
+      "constants",
+      "context",
+      "helpers",
+      "dates",
+      "file-paths"
+    ],
+    "wiki_source": "Modding:Modder Guide/APIs/Utilities"
+  },
+  {
+    "slug": "smapi/common-tasks.md",
+    "title": "Common Tasks",
+    "category": "smapi",
+    "tags": [
+      "common-tasks",
+      "basic-techniques",
+      "tracking-changes-to-a-value",
+      "items",
+      "create-an-item-object",
+      "spawn-an-item-on-the-ground",
+      "add-an-item-to-an-inventory",
+      "remove-an-item-from-an-inventory"
+    ],
+    "wiki_source": "Modding:Common tasks"
+  },
+  {
+    "slug": "smapi/game-fundamentals.md",
+    "title": "Game Fundamentals",
+    "category": "smapi",
+    "tags": [
+      "game-fundamentals",
+      "general-concepts",
+      "time-format",
+      "tiles",
+      "positions",
+      "zoom-level",
+      "ui-scaling",
+      "multiplayer-concepts-for-c-mods"
+    ],
+    "wiki_source": "Modding:Modder Guide/Game Fundamentals"
+  },
+  {
+    "slug": "smapi/get-started.md",
+    "title": "Get Started",
+    "category": "smapi",
+    "tags": [
+      "get-started",
+      "intro",
+      "what-is-a-smapi-mod",
+      "why-do-mods-use-smapi",
+      "can-i-make-a-mod",
+      "can-i-make-a-mod-without-smapi",
+      "where-can-i-get-help",
+      "learn-c"
+    ],
+    "wiki_source": "Modding:Modder Guide/Get Started"
+  },
+  {
+    "slug": "smapi/help.md",
+    "title": "Help",
+    "category": "smapi",
+    "tags": [
+      "help",
+      "get-help-with",
+      "using-mods",
+      "creating-mods",
+      "game-problems",
+      "how-to",
+      "get-help",
+      "share-your-log"
+    ],
+    "wiki_source": "Modding:Help"
+  },
+  {
+    "slug": "smapi/ide-reference.md",
+    "title": "Ide Reference",
+    "category": "smapi",
+    "tags": [
+      "ide-reference",
+      "before-you-start",
+      "create-a-mod-project",
+      "windows-visual-studio-2019-2022",
+      "windows-mac-linux-rider-2024-x-x",
+      "linux-monodevelop",
+      "macos-visual-studio-2019-for-mac",
+      "macos-visual-studio-for-mac"
+    ],
+    "wiki_source": "Modding:IDE reference"
+  },
+  {
+    "slug": "smapi/migrate-harmony-2.md",
+    "title": "Migrate Harmony 2",
+    "category": "smapi",
+    "tags": [
+      "migrate-to-harmony-2-0",
+      "overview",
+      "what-s-changing",
+      "is-this-the-modapocalypse",
+      "how-to-update-your-mod",
+      "breaking-changes",
+      "api-changes",
+      "stricter-validation"
+    ],
+    "wiki_source": "Modding:Migrate to Harmony 2.0"
+  },
+  {
+    "slug": "smapi/open-source.md",
+    "title": "Open Source",
+    "category": "smapi",
+    "tags": [
+      "open-source",
+      "why-is-open-source-important",
+      "common-questions",
+      "make-your-code-open-source",
+      "if-your-code-is-already-on-github",
+      "if-your-code-isn-t-on-github",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Open source"
+  },
+  {
+    "slug": "smapi/release.md",
+    "title": "Release",
+    "category": "smapi",
+    "tags": [
+      "release",
+      "prepare-the-release-package",
+      "for-smapi-mods",
+      "for-content-pack-mods",
+      "release-the-mod",
+      "using-nexus-mods",
+      "using-moddrop",
+      "go-open-source"
+    ],
+    "wiki_source": "Modding:Modder Guide/Release"
+  },
+  {
+    "slug": "smapi/test-and-troubleshoot.md",
+    "title": "Test And Troubleshoot",
+    "category": "smapi",
+    "tags": [
+      "test-and-troubleshoot",
+      "test-the-mod",
+      "basic-testing",
+      "testing-in-multiplayer",
+      "testing-on-all-platforms",
+      "fix-common-build-warnings",
+      "this-implicitly-converts",
+      "fieldname-is-a-net-field"
+    ],
+    "wiki_source": "Modding:Modder Guide/Test and Troubleshoot"
+  },
+  {
+    "slug": "smapi/translations.md",
+    "title": "Translations",
+    "category": "smapi",
+    "tags": [
+      "translations",
+      "for-translators",
+      "how-translations-work",
+      "how-to-translate-a-mod",
+      "how-to-provide-mod-translations",
+      "for-modders",
+      "using-translations",
+      "translation-summary"
+    ],
+    "wiki_source": "Modding:Translations"
+  },
+  {
+    "slug": "world-systems/lost-items-shop.md",
+    "title": "Lost Items Shop",
+    "category": "world-systems",
+    "tags": [
+      "lost-items-shop",
+      "data-format"
+    ],
+    "wiki_source": "Modding:Lost items shop"
+  },
+  {
+    "slug": "world-systems/mail.md",
+    "title": "Mail",
+    "category": "world-systems",
+    "tags": [
+      "mail-data",
+      "raw-data",
+      "format",
+      "key",
+      "value",
+      "examples",
+      "mail-flags",
+      "overview"
+    ],
+    "wiki_source": "Modding:Mail data"
+  },
+  {
+    "slug": "world-systems/shops.md",
+    "title": "Shops",
+    "category": "world-systems",
+    "tags": [
+      "shops",
+      "data",
+      "format",
+      "examples",
+      "vanilla-shop-ids",
+      "open-a-custom-shop"
+    ],
+    "wiki_source": "Modding:Shops"
+  },
+  {
+    "slug": "world-systems/special-orders.md",
+    "title": "Special Orders",
+    "category": "world-systems",
+    "tags": [
+      "special-orders",
+      "raw-data",
+      "format",
+      "basic-fields",
+      "randomized-elements",
+      "objectives",
+      "rewards",
+      "context-tags"
+    ],
+    "wiki_source": "Modding:Special orders"
+  },
+  {
+    "slug": "world-systems/tailoring.md",
+    "title": "Tailoring",
+    "category": "world-systems",
+    "tags": [
+      "tailoring",
+      "overview",
+      "data-format",
+      "examples",
+      "open-the-tailoring-menu",
+      "see-also"
+    ],
+    "wiki_source": "Modding:Tailoring"
+  }
+]
